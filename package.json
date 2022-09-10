@@ -1,0 +1,24 @@
+{
+  "name": "practico1_git",
+  "version": "1.0.0",
+  "description": "practico1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablictrad/practico1_git.git"
+  },
+  "author": "Patricia Bustos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablictrad/practico1_git/issues"
+  },
+  "homepage": "https://github.com/pablictrad/practico1_git#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "lodash": "^4.17.21"
+  }
+}
